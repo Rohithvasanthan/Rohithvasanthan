@@ -214,7 +214,7 @@ A health & wellness platform with adaptive, personality-driven features.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohithvasanthan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=4DA8FF&icon_color=4DA8FF&text_color=8CB4FF"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithvasanthan&theme=tokyonight&hide_border=true&background=0A0E27&stroke=4DA8FF&ring=4DA8FF&fire=4DA8FF&currStreakLabel=8CB4FF"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Rohithvasanthan&theme=tokyonight&hide_border=true&background=0A0E27&stroke=4DA8FF&ring=4DA8FF&fire=4DA8FF&currStreakLabel=8CB4FF"/>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithvasanthan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=4DA8FF&text_color=8CB4FF"/>
 
@@ -230,7 +230,27 @@ A health & wellness platform with adaptive, personality-driven features.
 
 </div>
 
-> Note: GitHub 3D contribution calendar, Skyline, and WakaTime widgets need a one-time setup (a GitHub Action + your WakaTime API key). Ping me if you want the exact workflow files added — leaving them out here since they need your personal keys to work.
+### 🌐 3D Contribution Calendar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/profile-3d-contrib/profile-night-green.svg">
+  <img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/profile-3d-contrib/profile-green.svg" width="100%"/>
+</picture>
+
+> ⚠️ **One-time setup required** — this image only appears after you run the GitHub Action once (see below). It's not a live 3D render; it's a graph image regenerated daily by a bot.
+
+> 📝 GitHub's **Skyline** (the literal 3D-printable model of your contributions) isn't embeddable in a README at all — it's a downloadable `.stl` file from [skyline.github.com](https://skyline.github.com). You can screenshot it and drop the image in manually if you want it here.
+
+> ⏱️ **WakaTime** coding-time stats also need your own free WakaTime account + API key wired into a badge — separate small setup, let me know if you want that added too.
+
+### 🐍 Animated Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+> Needs the `snake-animation.yml` workflow (Step 4 in setup instructions) — auto-refreshes daily once set up.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
