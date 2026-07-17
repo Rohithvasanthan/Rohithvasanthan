@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2735,100:0A0E27&height=260&section=header&text=Rohith%20Vasanthan&fontSize=52&fontColor=4DA8FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=8CB4FF" width="100%"/>
+<!-- CUSTOM ANIMATED HERO BANNER -->
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/hero-banner.svg" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
