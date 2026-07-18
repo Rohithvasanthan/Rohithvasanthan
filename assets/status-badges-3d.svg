@@ -1,0 +1,37 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="chipTop" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#152449"/>
+<stop offset="100%" stop-color="#0D1730"/>
+</linearGradient>
+<filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1200" height="130" fill="#050714"/>
+
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="3s" repeatCount="indefinite"/>
+<ellipse cx="195" cy="100" rx="140" ry="10" fill="#000" opacity="0.3" filter="url(#soft)"/>
+<rect x="60" y="30" width="270" height="52" rx="26" fill="#0A1636" stroke="#1B2735"/>
+<rect x="60" y="24" width="270" height="52" rx="26" fill="url(#chipTop)" stroke="#2A4D8C" stroke-width="1"/>
+<circle cx="92" cy="50" r="6" fill="#4DA8FF"/>
+<text x="112" y="55" font-family="Consolas, Monaco, monospace" font-size="15" fill="#B9D6FF">Tamil Nadu, India</text>
+</g>
+
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,-4; 0,4; 0,-4" dur="3.4s" repeatCount="indefinite"/>
+<ellipse cx="580" cy="100" rx="150" ry="10" fill="#000" opacity="0.3" filter="url(#soft)"/>
+<rect x="440" y="30" width="290" height="52" rx="26" fill="#0A1636" stroke="#1B2735"/>
+<rect x="440" y="24" width="290" height="52" rx="26" fill="url(#chipTop)" stroke="#2A4D8C" stroke-width="1"/>
+<circle cx="472" cy="50" r="6" fill="#639922"/>
+<text x="492" y="55" font-family="Consolas, Monaco, monospace" font-size="15" fill="#B9D6FF">Final Year CSE Student</text>
+</g>
+
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.8s" repeatCount="indefinite"/>
+<ellipse cx="980" cy="100" rx="130" ry="10" fill="#000" opacity="0.3" filter="url(#soft)"/>
+<rect x="850" y="30" width="270" height="52" rx="26" fill="#0A1636" stroke="#1B2735"/>
+<rect x="850" y="24" width="270" height="52" rx="26" fill="url(#chipTop)" stroke="#2A4D8C" stroke-width="1"/>
+<circle cx="882" cy="50" r="6" fill="#EF9F27"/>
+<text x="902" y="55" font-family="Consolas, Monaco, monospace" font-size="15" fill="#B9D6FF">Focus: KICKSTART</text>
+</g>
+</svg>
