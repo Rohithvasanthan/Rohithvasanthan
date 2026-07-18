@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CUSTOM ANIMATED HERO BANNER -->
-<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/hero-banner-3d.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/hero-banner.svg" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -38,7 +38,7 @@ Nothing here is exaggerated — just a student who enjoys building, shipping, an
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -46,7 +46,7 @@ Nothing here is exaggerated — just a student who enjoys building, shipping, an
 
 <img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/currently-section.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -62,29 +62,29 @@ Nothing here is exaggerated — just a student who enjoys building, shipping, an
 
 **AI & LLM**
 
-<img src="https://img.shields.io/badge/OpenAI-0D1224?style=flat-square&logo=openai&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/Gemini-0D1224?style=flat-square&logo=googlegemini&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/Claude-0D1224?style=flat-square&logo=anthropic&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/LangChain-0D1224?style=flat-square&logo=langchain&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/LangGraph-0D1224?style=flat-square&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/Flowise-0D1224?style=flat-square&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/LlamaIndex-0D1224?style=flat-square&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/MCP-0D1224?style=flat-square&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/RAG-0D1224?style=flat-square&logoColor=4DA8FF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/◆_LangGraph-1A1A2E?style=for-the-badge&logoColor=4DA8FF"/>
+<img src="https://img.shields.io/badge/🌊_Flowise-FF7A50?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🦙_LlamaIndex-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚙_MCP-2D2D2D?style=for-the-badge&logoColor=4DA8FF"/>
+<img src="https://img.shields.io/badge/🔎_RAG-2D2D2D?style=for-the-badge&logoColor=4DA8FF"/>
 
 <br/><br/>
 
 **Other Tools**
 
-<img src="https://img.shields.io/badge/Render-0D1224?style=flat-square&logo=render&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/Railway-0D1224?style=flat-square&logo=railway&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/JWT-0D1224?style=flat-square&logo=jsonwebtokens&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/Clerk-0D1224?style=flat-square&logo=clerk&logoColor=4DA8FF&labelColor=0D1224"/>
-<img src="https://img.shields.io/badge/Antigravity-0D1224?style=flat-square&logoColor=4DA8FF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_Antigravity-1B1F3B?style=for-the-badge&logoColor=4DA8FF"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -158,7 +158,7 @@ Generates responsive website structures from natural-language prompts using AI.
 </table>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -195,7 +195,7 @@ Generates responsive website structures from natural-language prompts using AI.
   <img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -203,7 +203,7 @@ Generates responsive website structures from natural-language prompts using AI.
 
 <img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/roadmap-timeline.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -217,7 +217,7 @@ Generates responsive website structures from natural-language prompts using AI.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -229,7 +229,7 @@ Generates responsive website structures from natural-language prompts using AI.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -246,7 +246,7 @@ Generates responsive website structures from natural-language prompts using AI.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <br/>
 
@@ -266,7 +266,7 @@ Generates responsive website structures from natural-language prompts using AI.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/divider-animated.svg" width="100%">
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2735,100:0A0E27&height=140&section=footer"/>
