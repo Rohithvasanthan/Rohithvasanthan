@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CUSTOM ANIMATED HERO BANNER -->
-<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/hero-banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/hero-banner-3d.gif" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
