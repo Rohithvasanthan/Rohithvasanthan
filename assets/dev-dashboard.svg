@@ -1,0 +1,40 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="ddGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0A0E27"/>
+<stop offset="100%" stop-color="#050714"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="360" fill="url(#ddGrad)"/>
+<rect x="40" y="30" width="1120" height="300" rx="18" fill="#0D1224" stroke="#1B2735"/>
+<path d="M40 62 a18 18 0 0 1 18 -18 h1044 a18 18 0 0 1 18 18 v10 h-1080 z" fill="#10162C"/>
+<circle cx="70" cy="46" r="6" fill="#E24B4A"/>
+<circle cx="92" cy="46" r="6" fill="#EF9F27"/>
+<circle cx="114" cy="46" r="6" fill="#639922"/>
+<text x="600" y="51" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="13" fill="#4A5A78">rohith --now</text>
+
+<circle cx="80" cy="105" r="6" fill="#639922"/>
+<text x="100" y="110" font-family="Consolas, Monaco, monospace" font-size="15" fill="#B9D6FF">status</text>
+<text x="230" y="110" font-family="Consolas, Monaco, monospace" font-size="15" fill="#8CB4FF">Building &amp; learning</text>
+
+<circle cx="80" cy="140" r="6" fill="#4DA8FF"/>
+<text x="100" y="145" font-family="Consolas, Monaco, monospace" font-size="15" fill="#B9D6FF">building</text>
+<text x="230" y="145" font-family="Consolas, Monaco, monospace" font-size="15" fill="#8CB4FF">Real-world MERN + AI products</text>
+
+<circle cx="80" cy="175" r="6" fill="#EF9F27"/>
+<text x="100" y="180" font-family="Consolas, Monaco, monospace" font-size="15" fill="#B9D6FF">learning</text>
+<text x="230" y="180" font-family="Consolas, Monaco, monospace" font-size="15" fill="#8CB4FF">Agentic AI · System Design · LangGraph · MCP</text>
+
+<circle cx="80" cy="210" r="6" fill="#7F77DD"/>
+<text x="100" y="215" font-family="Consolas, Monaco, monospace" font-size="15" fill="#B9D6FF">focus</text>
+<text x="230" y="215" font-family="Consolas, Monaco, monospace" font-size="15" fill="#8CB4FF">Placements + startup groundwork</text>
+
+<line x1="80" y1="240" x2="1120" y2="240" stroke="#1B2735"/>
+
+<text x="80" y="270" font-family="Consolas, Monaco, monospace" font-size="14" fill="#4DA8FF">&gt; goals --list</text>
+<text x="100" y="295" font-family="Consolas, Monaco, monospace" font-size="14" fill="#B9D6FF">[1] Land a strong product/startup role</text>
+<text x="100" y="318" font-family="Consolas, Monaco, monospace" font-size="14" fill="#B9D6FF">[2] Ship a polished AI-powered portfolio project</text>
+<rect x="700" y="303" width="9" height="14" fill="#4DA8FF">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>

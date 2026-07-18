@@ -1,0 +1,52 @@
+<svg width="900" height="680" viewBox="0 0 900 680" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="680" fill="#050714"/>
+<line x1="80" y1="40" x2="80" y2="640" stroke="#1B2735" stroke-width="3"/>
+
+<circle cx="80" cy="60" r="12" fill="#639922"/>
+<circle cx="80" cy="60" r="12" fill="none" stroke="#8CC94F" stroke-width="2" opacity="0.5"/>
+<rect x="120" y="34" width="520" height="52" rx="12" fill="#0D1730" stroke="#1B2735"/>
+<text x="145" y="55" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#B9E48A">Core Full-Stack (MERN)</text>
+<text x="145" y="75" font-family="Consolas, Monaco, monospace" font-size="12" fill="#639922">completed</text>
+
+<circle cx="80" cy="140" r="12" fill="#639922"/>
+<rect x="120" y="114" width="560" height="52" rx="12" fill="#0D1730" stroke="#1B2735"/>
+<text x="145" y="135" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#B9E48A">AI Integration Basics (OpenAI, LangChain)</text>
+<text x="145" y="155" font-family="Consolas, Monaco, monospace" font-size="12" fill="#639922">completed</text>
+
+<circle cx="80" cy="220" r="13" fill="#EF9F27">
+<animate attributeName="opacity" values="1;0.5;1" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+<rect x="120" y="194" width="500" height="52" rx="12" fill="#161006" stroke="#7A5A16"/>
+<text x="145" y="215" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#FAC775">Advanced React &amp; Next.js</text>
+<text x="145" y="235" font-family="Consolas, Monaco, monospace" font-size="12" fill="#EF9F27">in progress</text>
+
+<circle cx="80" cy="300" r="13" fill="#EF9F27">
+<animate attributeName="opacity" values="1;0.5;1" dur="1.6s" begin="0.3s" repeatCount="indefinite"/>
+</circle>
+<rect x="120" y="274" width="500" height="52" rx="12" fill="#161006" stroke="#7A5A16"/>
+<text x="145" y="295" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#FAC775">System Design Fundamentals</text>
+<text x="145" y="315" font-family="Consolas, Monaco, monospace" font-size="12" fill="#EF9F27">in progress</text>
+
+<circle cx="80" cy="380" r="11" fill="#0D1730" stroke="#2A4D8C" stroke-width="2"/>
+<rect x="120" y="354" width="460" height="52" rx="12" fill="#0A1020" stroke="#1B2735"/>
+<text x="145" y="375" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#7A8AAE">Docker &amp; Kubernetes</text>
+<text x="145" y="395" font-family="Consolas, Monaco, monospace" font-size="12" fill="#4A5A78">upcoming</text>
+
+<circle cx="80" cy="460" r="11" fill="#0D1730" stroke="#2A4D8C" stroke-width="2"/>
+<rect x="120" y="434" width="460" height="52" rx="12" fill="#0A1020" stroke="#1B2735"/>
+<text x="145" y="455" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#7A8AAE">AWS Cloud Deployment</text>
+<text x="145" y="475" font-family="Consolas, Monaco, monospace" font-size="12" fill="#4A5A78">upcoming</text>
+
+<circle cx="80" cy="540" r="11" fill="#0D1730" stroke="#2A4D8C" stroke-width="2"/>
+<rect x="120" y="514" width="520" height="52" rx="12" fill="#0A1020" stroke="#1B2735"/>
+<text x="145" y="535" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#7A8AAE">LangGraph + CrewAI (Agentic AI)</text>
+<text x="145" y="555" font-family="Consolas, Monaco, monospace" font-size="12" fill="#4A5A78">upcoming</text>
+
+<circle cx="80" cy="620" r="11" fill="#0D1730" stroke="#2A4D8C" stroke-width="2"/>
+<rect x="120" y="594" width="520" height="52" rx="12" fill="#0A1020" stroke="#1B2735"/>
+<text x="145" y="615" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700" fill="#7A8AAE">MCP + RAG · Production-Grade AI Systems</text>
+<text x="145" y="635" font-family="Consolas, Monaco, monospace" font-size="12" fill="#4A5A78">upcoming</text>
+</svg>

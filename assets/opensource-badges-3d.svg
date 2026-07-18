@@ -1,0 +1,42 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="chipTop2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#152449"/>
+<stop offset="100%" stop-color="#0D1730"/>
+</linearGradient>
+<filter id="soft2"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1200" height="130" fill="#050714"/>
+
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="3s" repeatCount="indefinite"/>
+<ellipse cx="165" cy="100" rx="115" ry="9" fill="#000" opacity="0.3" filter="url(#soft2)"/>
+<rect x="55" y="30" width="220" height="52" rx="26" fill="url(#chipTop2)" stroke="#2A4D8C"/>
+<circle cx="82" cy="56" r="5" fill="#8CB4FF"/>
+<text x="98" y="61" font-family="Consolas, Monaco, monospace" font-size="14" fill="#B9D6FF">Pull Requests: soon</text>
+</g>
+
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,-4; 0,4; 0,-4" dur="3.3s" repeatCount="indefinite"/>
+<ellipse cx="470" cy="100" rx="115" ry="9" fill="#000" opacity="0.3" filter="url(#soft2)"/>
+<rect x="360" y="30" width="220" height="52" rx="26" fill="url(#chipTop2)" stroke="#2A4D8C"/>
+<circle cx="387" cy="56" r="5" fill="#8CB4FF"/>
+<text x="403" y="61" font-family="Consolas, Monaco, monospace" font-size="14" fill="#B9D6FF">Repos: soon</text>
+</g>
+
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.7s" repeatCount="indefinite"/>
+<ellipse cx="745" cy="100" rx="115" ry="9" fill="#000" opacity="0.3" filter="url(#soft2)"/>
+<rect x="635" y="30" width="220" height="52" rx="26" fill="url(#chipTop2)" stroke="#2A4D8C"/>
+<circle cx="662" cy="56" r="5" fill="#8CB4FF"/>
+<text x="678" y="61" font-family="Consolas, Monaco, monospace" font-size="14" fill="#B9D6FF">Issues: soon</text>
+</g>
+
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,-3; 0,5; 0,-3" dur="3.6s" repeatCount="indefinite"/>
+<ellipse cx="1040" cy="100" rx="120" ry="9" fill="#000" opacity="0.3" filter="url(#soft2)"/>
+<rect x="925" y="30" width="230" height="52" rx="26" fill="url(#chipTop2)" stroke="#2A4D8C"/>
+<circle cx="952" cy="56" r="5" fill="#8CB4FF"/>
+<text x="968" y="61" font-family="Consolas, Monaco, monospace" font-size="14" fill="#B9D6FF">Discussions: soon</text>
+</g>
+</svg>
