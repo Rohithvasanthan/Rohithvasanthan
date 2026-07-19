@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- CUSTOM ANIMATED HERO BANNER -->
-<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/hero-banner-3d.gif" width="100%"/>
+<!-- CUSTOM ANIMATED 3D-STYLE HERO BANNER (Neural Network) -->
+<img src="https://raw.githubusercontent.com/Rohithvasanthan/Rohithvasanthan/main/assets/hero-banner.svg" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -166,14 +166,20 @@ Generates responsive website structures from natural-language prompts using AI.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohithvasanthan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=4DA8FF&icon_color=4DA8FF&text_color=8CB4FF"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Rohithvasanthan&theme=tokyonight&hide_border=true&background=0A0E27&stroke=4DA8FF&ring=4DA8FF&fire=4DA8FF&currStreakLabel=8CB4FF"/>
+<table>
+<tr>
+<td align="center"><img width="480" src="https://github-readme-stats.vercel.app/api?username=Rohithvasanthan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=4DA8FF&icon_color=4DA8FF&text_color=8CB4FF" /></td>
+<td align="center"><img width="480" src="https://streak-stats.demolab.com/?user=Rohithvasanthan&theme=tokyonight&hide_border=true&background=0A0E27&stroke=4DA8FF&ring=4DA8FF&fire=4DA8FF&currStreakLabel=8CB4FF" /></td>
+</tr>
+</table>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithvasanthan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=4DA8FF&text_color=8CB4FF"/>
+<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithvasanthan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=4DA8FF&text_color=8CB4FF" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohithvasanthan&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=4DA8FF&line=4DA8FF&point=8CB4FF"/>
+<br/><br/>
 
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohithvasanthan&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=4DA8FF&line=4DA8FF&point=8CB4FF" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rohithvasanthan&color=4DA8FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Rohithvasanthan?style=flat-square&color=4DA8FF&labelColor=0D1224&label=FOLLOWERS"/>
