@@ -1,0 +1,98 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0A0E27"/>
+<stop offset="55%" stop-color="#0D1030"/>
+<stop offset="100%" stop-color="#050714"/>
+</linearGradient>
+<radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#4DA8FF" stop-opacity="0.28"/>
+<stop offset="100%" stop-color="#4DA8FF" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#9B7CFF" stop-opacity="0.22"/>
+<stop offset="100%" stop-color="#9B7CFF" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#4DA8FF"/>
+<stop offset="40%" stop-color="#D8E8FF"/>
+<stop offset="65%" stop-color="#A78BFF"/>
+<stop offset="100%" stop-color="#4DA8FF"/>
+</linearGradient>
+<linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#4DA8FF"/>
+<stop offset="100%" stop-color="#A78BFF"/>
+</linearGradient>
+<filter id="softBlur"><feGaussianBlur stdDeviation="18"/></filter>
+<filter id="nameGlow"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+
+<rect width="1200" height="420" fill="url(#bgGrad)"/>
+<circle cx="150" cy="90" r="180" fill="url(#glowBlue)" filter="url(#softBlur)"/>
+<circle cx="1060" cy="330" r="190" fill="url(#glowViolet)" filter="url(#softBlur)"/>
+<circle cx="600" cy="380" r="140" fill="url(#glowBlue)" filter="url(#softBlur)" opacity="0.4"/>
+
+<rect x="240" y="40" width="720" height="340" rx="18" fill="#0D1224" stroke="#1B2735"/>
+<path d="M240 72 a18 18 0 0 1 18 -18 h684 a18 18 0 0 1 18 18 v10 h-720 z" fill="#10162C"/>
+<circle cx="270" cy="56" r="6" fill="#E24B4A"/>
+<circle cx="292" cy="56" r="6" fill="#EF9F27"/>
+<circle cx="314" cy="56" r="6" fill="#639922"/>
+<text x="600" y="61" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="12" fill="#5A6A8E">train_model.py — rohith-ai</text>
+
+<g font-family="Consolas, Monaco, monospace" font-size="15" fill="#8CB4FF">
+
+<text x="268" y="107" fill="#4DA8FF">
+<tspan fill="#639922">$</tspan> python train_model.py
+<animate attributeName="opacity" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.03;0.05;0.97;0.99;1" values="0;0;1;1;0;0"/>
+</text>
+
+<text x="268" y="135">
+Loading dataset... <tspan fill="#5FE0A0">done</tspan>
+<animate attributeName="opacity" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.10;0.12;0.97;0.99;1" values="0;0;1;1;0;0"/>
+</text>
+
+<text x="268" y="163">
+Initializing neural network...
+<animate attributeName="opacity" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.17;0.19;0.97;0.99;1" values="0;0;1;1;0;0"/>
+</text>
+
+<g>
+<animate attributeName="opacity" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.20;0.22;0.97;0.99;1" values="0;0;1;1;0;0"/>
+<rect x="268" y="183" width="300" height="10" rx="5" fill="#1B2735"/>
+<rect x="268" y="183" height="10" rx="5" fill="url(#barGrad)">
+<animate attributeName="width" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.20;0.35;1" values="0;0;300;300"/>
+</rect>
+</g>
+
+<text x="268" y="217">
+<animate attributeName="opacity" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.34;0.36;0.97;0.99;1" values="0;0;1;1;0;0"/>
+Epoch 10/10 — loss: <tspan fill="#5FE0A0">0.021</tspan>
+</text>
+
+<text x="268" y="247" fill="#5FE0A0">
+✓ Model trained successfully
+<animate attributeName="opacity" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.39;0.41;0.97;0.99;1" values="0;0;1;1;0;0"/>
+</text>
+
+</g>
+
+<g>
+<animate attributeName="opacity" dur="10s" repeatCount="indefinite" begin="0s"
+ keyTimes="0;0.43;0.48;0.95;0.97;1" values="0;0;1;1;0;0"/>
+<line x1="268" y1="267" x2="890" y2="267" stroke="#1B2735"/>
+<text x="268" y="292" font-family="Consolas, Monaco, monospace" font-size="13" fill="#4DA8FF" letter-spacing="1">&gt; output</text>
+
+<text x="266" y="338" font-family="Consolas, Monaco, monospace" font-size="38" font-weight="700" letter-spacing="0.5" fill="#4DA8FF" filter="url(#nameGlow)" opacity="0.7">Rohith Vasanthan</text>
+<text x="266" y="338" font-family="Consolas, Monaco, monospace" font-size="38" font-weight="700" letter-spacing="0.5" fill="url(#textGrad)">Rohith Vasanthan</text>
+
+<text x="268" y="368" font-family="Consolas, Monaco, monospace" font-size="16" letter-spacing="0.5" fill="#A9BEE6">AI + Full Stack Developer</text>
+</g>
+
+</svg>
