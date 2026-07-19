@@ -2,9 +2,47 @@
 <html>
 <head>
 <meta charset="utf-8"/>
-<style>html,body{margin:0;background:#0A0E27;overflow:hidden;}canvas{display:block;}</style>
+<style>
+html,body{margin:0;background:#0A0E27;overflow:hidden;}
+canvas{display:block;position:absolute;top:0;left:0;}
+#overlay{
+  position:absolute;
+  left:640px;
+  top:0;
+  width:520px;
+  height:340px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  font-family:Consolas,Monaco,monospace;
+  pointer-events:none;
+}
+#overlay .prompt{color:#4DA8FF;font-size:15px;margin-bottom:6px;}
+#overlay .name{
+  font-size:42px;
+  font-weight:700;
+  background:linear-gradient(90deg,#4DA8FF,#B9D6FF,#4DA8FF);
+  -webkit-background-clip:text;
+  background-clip:text;
+  color:transparent;
+  margin:0 0 8px 0;
+}
+#overlay .role{color:#8CB4FF;font-size:17px;margin:0;}
+#overlay .cursor{
+  display:inline-block;
+  width:9px;height:16px;
+  background:#4DA8FF;
+  margin-left:6px;
+  vertical-align:middle;
+}
+</style>
 </head>
 <body>
+<div id="overlay">
+  <div class="prompt">&gt; whoami</div>
+  <div class="name">Rohith Vasanthan</div>
+  <div class="role">AI + Full Stack Developer<span class="cursor" id="cursor"></span></div>
+</div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script>
 window.sceneReady = false;
@@ -33,12 +71,10 @@ scene.add(pLight2);
 const coreGeo = new THREE.IcosahedronGeometry(2.1, 1);
 const coreMat = new THREE.MeshPhongMaterial({ color: 0x102048, shininess: 80, transparent: true, opacity: 0.85 });
 const core = new THREE.Mesh(coreGeo, coreMat);
-scene.add(core);
 
 const wireGeo = new THREE.IcosahedronGeometry(2.15, 1);
 const wireMat = new THREE.MeshBasicMaterial({ color: 0x4DA8FF, wireframe: true });
 const wire = new THREE.Mesh(wireGeo, wireMat);
-scene.add(wire);
 
 // Orbiting particles (rings of small glowing spheres at different radii/speeds)
 function makeOrbit(radius, count, color, size) {
@@ -56,7 +92,12 @@ function makeOrbit(radius, count, color, size) {
 const orbit1 = makeOrbit(4.2, 10, 0x4DA8FF, 0.07);
 const orbit2 = makeOrbit(5.4, 14, 0x8CB4FF, 0.05);
 orbit2.rotation.x = 0.4;
-scene.add(orbit1, orbit2);
+
+// Group everything and shift left so it doesn't overlap the name text overlay
+const sceneGroup = new THREE.Group();
+sceneGroup.position.x = -3.2;
+sceneGroup.add(core, wire, orbit1, orbit2);
+scene.add(sceneGroup);
 
 window.setFrame = function (t) {
   // t goes 0 -> 1 across the loop
