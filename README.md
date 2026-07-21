@@ -62,25 +62,25 @@ Nothing here is exaggerated — just a student who enjoys building, shipping, an
 
 **AI & LLM**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/◆_LangGraph-1A1A2E?style=for-the-badge&logoColor=4DA8FF"/>
-<img src="https://img.shields.io/badge/🌊_Flowise-FF7A50?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🦙_LlamaIndex-6366F1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/⚙_MCP-2D2D2D?style=for-the-badge&logoColor=4DA8FF"/>
-<img src="https://img.shields.io/badge/🔎_RAG-2D2D2D?style=for-the-badge&logoColor=4DA8FF"/>
+<img src="https://img.shields.io/badge/OpenAI-0D1224?style=for-the-badge&logo=openai&logoColor=4DA8FF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/Gemini-0D1224?style=for-the-badge&logo=googlegemini&logoColor=A78BFF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/Claude-0D1224?style=for-the-badge&logo=anthropic&logoColor=5FE0E0&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/LangChain-0D1224?style=for-the-badge&logo=langchain&logoColor=4DA8FF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/◆_LangGraph-0D1224?style=for-the-badge&logoColor=A78BFF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/🌊_Flowise-0D1224?style=for-the-badge&logoColor=5FE0E0&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/🦙_LlamaIndex-0D1224?style=for-the-badge&logoColor=4DA8FF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/⚙_MCP-0D1224?style=for-the-badge&logoColor=A78BFF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/🔎_RAG-0D1224?style=for-the-badge&logoColor=5FE0E0&labelColor=0D1224"/>
 
 <br/><br/>
 
 **Other Tools**
 
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀_Antigravity-1B1F3B?style=for-the-badge&logoColor=4DA8FF"/>
+<img src="https://img.shields.io/badge/Render-0D1224?style=for-the-badge&logo=render&logoColor=4DA8FF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/Railway-0D1224?style=for-the-badge&logo=railway&logoColor=A78BFF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/JWT-0D1224?style=for-the-badge&logo=jsonwebtokens&logoColor=5FE0E0&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/Clerk-0D1224?style=for-the-badge&logo=clerk&logoColor=4DA8FF&labelColor=0D1224"/>
+<img src="https://img.shields.io/badge/🚀_Antigravity-0D1224?style=for-the-badge&logoColor=A78BFF&labelColor=0D1224"/>
 
 </div>
 
