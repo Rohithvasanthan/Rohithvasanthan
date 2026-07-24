@@ -277,6 +277,6 @@ Generates responsive website structures from natural-language prompts using AI.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2735,100:0A0E27&height=140&section=footer"/>
 
-**Turning ideas into products, one commit at a time. Let's build something worth shipping. 🚀**
+**Turning ideas into products, one commit at a time. Let's build something worth shipping. Building Real World Solutions . 🚀**
 
 </div>
